@@ -1,3 +1,24 @@
+
+# Name, email, college and phone number
+#done...
+
+
+#Name : Gagandeep Singh
+#Email : singhgagandeep8056@gmail.com
+#College : Guru Nanak Dev Univerity (Amritsar)
+#Phone no. : 7888742774
+
+
+# Also mention the sum(land) for Anjali Devi and Suraj Kumar in comment in the code. Output should be correct and match with your code output.
+#done...
+#sum(land) for anjali : ans : 12
+#sum(suraj kumar) : ans : 62
+
+
+
+
+
+
 class LandRecord:
     def __init__(self, name, father, land):
         self.name = name
